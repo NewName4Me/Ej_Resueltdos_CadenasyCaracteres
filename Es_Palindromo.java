@@ -1,7 +1,7 @@
 package unpocodetodo;
 import java.util.Scanner;
 
-public class Es_Palindromo {
+public class C10_Es_Palindromo {
 
     public static void main(String[] args) {
         /*
